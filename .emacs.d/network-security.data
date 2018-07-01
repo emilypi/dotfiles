@@ -1,6 +1,0 @@
-(
- (:id "sha1:3168aad4a25dfa2b31b03b55b5af9b85de6163d5" :fingerprint "sha1:14:41:b4:03:5a:95:cb:ad:66:17:11:b4:86:7d:88:67:01:18:de:37" :host "localhost:6697" :conditions (:self-signed :no-host-match :insecure :unknown-ca :invalid))
- (:id "sha1:3f465d088c6fc241efca10e0003e39f602a9f8d3" :fingerprint "sha1:41:ef:86:eb:36:68:91:1c:f6:b3:c2:3b:cc:47:9b:2c:32:2e:6d:82")
- (:id "sha1:f18635df11ea5e2027bafb5f71056560f702a964" :fingerprint "sha1:e7:40:e6:15:62:e3:60:2e:55:c4:40:3f:14:ee:a1:1d:df:07:96:66" :host "irc.gitter.im:6697" :conditions (:insecure :unknown-ca :invalid))
- (:id "sha1:24c7a1e6369fef1e50de1deb1a9e5bbc68f80c8b" :fingerprint "sha1:26:26:88:6a:58:94:85:2f:98:ce:97:a0:0d:93:75:63:0a:9e:44:b5" :host "orgmode.org:443" :conditions (:insecure :unknown-ca :invalid))
-)
